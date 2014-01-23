@@ -27,7 +27,7 @@ namespace 单元测试初阶
 
         static void Main(string[] args)
         {
-            //uiytsduifgsdfui
+            //uiytsduifgsdfui突突突
             string str="1,2,3,4,5,6,";
             Console.WriteLine(str.Substring(0,str.Length-1));
             Console.Read();
