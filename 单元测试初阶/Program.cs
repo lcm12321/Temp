@@ -27,7 +27,7 @@ namespace 单元测试初阶
 
         static void Main(string[] args)
         {
-            //uiytsduifgsdfui儿童热热特特548435184154645496
+            //uiytsduifgsdfui儿童热热特特548435184154645496654646546
             string str="1,2,3,4,5,6,";
             Console.WriteLine(str.Substring(0,str.Length-1));
             Console.Read();
